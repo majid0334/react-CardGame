@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-color: aquamarine;
+}
+.card {
+  border: 0.2rem solid black;
+  margin: 1rem;
+  background-color: aliceblue;
+}
+.card ul {
+  text-decoration: none;
+  flex-wrap: wrap;
+  padding: 0.1rem;
+}
+
+.card li {
+  list-style-type: none;
+}
